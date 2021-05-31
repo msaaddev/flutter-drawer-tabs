@@ -1,6 +1,6 @@
-# assignment8
+# Flutter Tabs
 
-A new Flutter project.
+A flutter app with multiple screens, different buttons, input selections, tabs, and app drawer.
 
 ## Getting Started
 
