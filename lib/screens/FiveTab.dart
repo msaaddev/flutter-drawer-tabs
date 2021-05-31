@@ -2,8 +2,6 @@ import 'package:assignment8/widgets/Drawer.dart';
 import 'package:flutter/material.dart';
 
 class FiveTab extends StatefulWidget {
-  FiveTab({Key key}) : super(key: key);
-
   @override
   FiveTabState createState() => FiveTabState();
 }

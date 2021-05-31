@@ -3,8 +3,6 @@ import 'package:assignment8/screens/FiveTab.dart';
 import 'package:assignment8/screens/SixTab.dart';
 
 class DrawerW extends StatefulWidget {
-  DrawerW({Key key}) : super(key: key);
-
   @override
   _DrawerWState createState() => _DrawerWState();
 }
