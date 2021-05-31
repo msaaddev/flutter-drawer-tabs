@@ -22,7 +22,7 @@ class FiveTabState extends State<FiveTab> with TickerProviderStateMixin {
             child: Scaffold(
               drawer: DrawerW(),
               appBar: AppBar(
-                title: Text('Five Tab Screen'),
+                title: Text('Different Buttons'),
                 bottom: TabBar(
                   tabs: [
                     Tab(
